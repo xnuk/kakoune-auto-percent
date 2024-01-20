@@ -81,6 +81,3 @@ define-command -hidden auto-percent-unmap %{
   unmap global normal <a-(>
   unmap global normal <a-)>
 }
-
-# init
-auto-percent-map
